@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/godl3ss"><img src="https://img.shields.io/badge/Telegram-181a1e?style=for-the-badge&logo=telegram&logoColor=5a42a6" alt="Telegram" /></a>
+  <a href="https://t.me/godl3sss"><img src="https://img.shields.io/badge/Telegram-181a1e?style=for-the-badge&logo=telegram&logoColor=5a42a6" alt="Telegram" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5a42a6&height=80&section=footer" />
